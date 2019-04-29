@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "But, does it work?"
-date:   2019-01-21
+date:   2019-04-27
 categories: fintech
 ---
 ## 5 ways to stress test your strategy.
