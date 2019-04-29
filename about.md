@@ -27,7 +27,7 @@ Our core competencies range from financial engineering and organizational psycho
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<a href="" onclick="Calendly.showPopupWidget('https://calendly.com/swae/15');return false;">Schedule a time to talk with us!</a>
+<a href="" onclick="Calendly.showPopupWidget('https://calendly.com/swae/15');return false;">See how Anoloriya can help.</a>
 <!-- Calendly link widget end -->
 
 *Anoloriya holds and operates a small portfolio of businesses and promotes novel, responsible approaches to corporate management and strategy.*
