@@ -10,8 +10,7 @@ Working with companies of all sizes across a range of industries over the last d
 
 The Comprehensive Business Survey comprises four primary stages.
 
-**First,** you <!-- Calendly link widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+**First,** you<!-- Calendly link widget begin --> <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
 <a href="" onclick="Calendly.showPopupWidget('https://calendly.com/swae/15');return false;">schedule a call with me</a>
 <!-- Calendly link widget end -->. We'll speak directly about your situation and whether or not the CBS is a good match for you.
