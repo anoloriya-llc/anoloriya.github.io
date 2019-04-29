@@ -17,9 +17,10 @@ With a decade of experience from Fortune 100 firms all the way to garage startup
 
 Our core competencies range from financial engineering and organizational psychology to political and strategic guidance.
 
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/swae/15" style="min-width:320px;height:580px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end -->
+<!-- Calendly link widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
+<a href="" onclick="Calendly.showPopupWidget('https://calendly.com/swae/15');return false;">Schedule a time to talk with us!</a>
+<!-- Calendly link widget end -->
 
 *Anoloriya holds and operates a small portfolio of businesses and promotes novel, responsible approaches to corporate management and strategy.*
