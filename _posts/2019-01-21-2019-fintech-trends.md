@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "2019 FinTech Trends"
-date:   2018-01-21
+date:   2019-01-21
 categories: fintech
 ---
 ## Now with even more synergy and disruption!
