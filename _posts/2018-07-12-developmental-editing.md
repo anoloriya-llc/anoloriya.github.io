@@ -1,9 +1,9 @@
 ---
 title: "Make It Nice: what's your angle of attack?"
-#excerpt:
-#header:
-#  image: "https://sg.fiverrcdn.com/photos/106523047/original/d3476f9b7229fd46a7a69865073922b703cde6a5.png?1515741856"
-  #teaser: "https://taubmancollege.umich.edu/sites/default/files/styles/four_column_feature/public/featured_images/header_building_summer_8.jpg?itok=J3ZV0HDI"
+excerpt:
+header:
+  image: "https://sg.fiverrcdn.com/photos/106523047/original/d3476f9b7229fd46a7a69865073922b703cde6a5.png?1515741856"
+  teaser: "https://taubmancollege.umich.edu/sites/default/files/styles/four_column_feature/public/featured_images/header_building_summer_8.jpg?itok=J3ZV0HDI"
 categories:
   - editing
 tags:
